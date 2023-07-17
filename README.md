@@ -23,7 +23,9 @@ Divided the project into two parts, namely Exploratory Data Analysis (EDA) and D
 
 ### Model Training:
 1.Utilized Logistic Regression, Random Forest, and LightGBM algorithms for training the machine learning model.
+
 2.Applied suitable hyperparameter tuning and cross-validation techniques to optimize model performance.
+
 3.Evaluated and compared the models based on their predictive accuracy.
 
 
