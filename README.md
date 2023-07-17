@@ -2,8 +2,8 @@
 
 ## Situation:
 As the lead of a team of four during my 4th year machine learning course, I successfully developed a loan defaulter prediction model using the Lending Club Loan Dataset. 
-Developed a machine learning model for loan defaulter prediction using the 
-###### Lending Club Loan Dataset 
+Developed a machine learning model for loan defaulter prediction using the
+###### Lending Club Loan Dataset
 from Kaggle. The dataset consisted loan data from 2007-2015, including loan status and payment information.
 
 ## Task: 
